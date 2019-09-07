@@ -1,0 +1,1264 @@
+{
+  "offers": [
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_qb7b3b14",
+      "id": "cus_qb7b3b14",
+      "customer_name": "Jackson Shaw",
+      "customer_company": "Unova Inc",
+      "address_street": "Huap Boulevard 258",
+      "address_city": "Berlin",
+      "address_postalcode": "10784",
+      "schedule": {
+        "friday": "08-15",
+        "monday": "08-14",
+        "tuesday": "11-15",
+        "saturday": "09-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1629.99,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_aiead5s4",
+      "id": "cus_aiead5s4",
+      "customer_name": "Ian Duncan",
+      "customer_company": "Perini Corp",
+      "address_street": "Oszo Road 407",
+      "address_city": "Berlin",
+      "address_postalcode": "12421",
+      "schedule": {
+        "friday": "10-14",
+        "monday": "12-16",
+        "tuesday": "09-15",
+        "saturday": "12-16",
+        "thursday": "11-15",
+        "wednesday": "11-17"
+      },
+      "schedule_matches": true,
+      "contract_price": 1679.84,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_1z4u61c1",
+      "id": "cus_1z4u61c1",
+      "customer_name": "James Lucas",
+      "customer_company": "R.J. Reynolds Tobacco Company",
+      "address_street": "Faza Pass 972",
+      "address_city": "Berlin",
+      "address_postalcode": "10475",
+      "schedule": {
+        "monday": "11-15",
+        "tuesday": "10-17",
+        "thursday": "09-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1650.23,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_xb4qbr3m",
+      "id": "cus_xb4qbr3m",
+      "customer_name": "Lola Parker",
+      "customer_company": "Storage Technology Corporation",
+      "address_street": "Alnut Point 464",
+      "address_city": "Berlin",
+      "address_postalcode": "12305",
+      "schedule": {
+        "friday": "12-17",
+        "monday": "08-13",
+        "tuesday": "09-15",
+        "saturday": "11-17",
+        "thursday": "08-12",
+        "wednesday": "14-17"
+      },
+      "schedule_matches": false,
+      "contract_price": 1501.84,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_t4j174t8",
+      "id": "cus_t4j174t8",
+      "customer_name": "Helen Moreno",
+      "customer_company": "H.J. Heinz Company",
+      "address_street": "Teoke Trail 210",
+      "address_city": "Berlin",
+      "address_postalcode": "15163",
+      "schedule": {
+        "friday": "08-15",
+        "monday": "11-15",
+        "tuesday": "08-17",
+        "saturday": "08-13",
+        "wednesday": "07-11"
+      },
+      "schedule_matches": false,
+      "contract_price": 1458.3,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_twn2x5sn",
+      "id": "cus_twn2x5sn",
+      "customer_name": "Nora Morris",
+      "customer_company": "Yellow Corporation",
+      "address_street": "Vuici Boulevard 528",
+      "address_city": "Berlin",
+      "address_postalcode": "15258",
+      "schedule": {
+        "wednesday": "09-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1577.92,
+      "contract_name": null,
+      "contract_start": null
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_26qt87l1",
+      "id": "cus_26qt87l1",
+      "customer_name": "Lizzie Castro",
+      "customer_company": "Lyondell Chemical Company",
+      "address_street": "Zulo River 1883",
+      "address_city": "Berlin",
+      "address_postalcode": "10071",
+      "schedule": {
+        "friday": "08-13",
+        "monday": "10-14",
+        "tuesday": "12-15",
+        "saturday": "13-17",
+        "thursday": "10-13",
+        "wednesday": "10-16"
+      },
+      "schedule_matches": false,
+      "contract_price": 1622.91,
+      "contract_name": "C-3OL9J",
+      "contract_start": "2019-08-05T00:00:00.000Z"
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_zxiv985h",
+      "id": "cus_zxiv985h",
+      "customer_name": "Georgie Rios",
+      "customer_company": "Metals USA Inc.",
+      "address_street": "Pevuve Road 1007",
+      "address_city": "Berlin",
+      "address_postalcode": "12662",
+      "schedule": {
+        "wednesday": "13-17"
+      },
+      "schedule_matches": true,
+      "contract_price": 1482.48,
+      "contract_name": "C-UBPMJ",
+      "contract_start": "2019-08-05T00:00:00.000Z"
+    },
+    {
+      "status": "new",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_jzfbpb73",
+      "id": "cus_jzfbpb73",
+      "customer_name": "Alexander Barrett",
+      "customer_company": "Tribune Company",
+      "address_street": "Vidto Place 645",
+      "address_city": "Berlin",
+      "address_postalcode": "12193",
+      "schedule": {
+        "friday": "07-10",
+        "tuesday": "11-15",
+        "thursday": "12-16"
+      },
+      "schedule_matches": false,
+      "contract_price": 1586.97,
+      "contract_name": "C-QEML1",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_es7o57nd",
+      "id": "cus_es7o57nd",
+      "customer_name": "Thomas Wilkins",
+      "customer_company": "Calpine Corp.",
+      "address_street": "Ubuipi Grove 65",
+      "address_city": "Berlin",
+      "address_postalcode": "15946",
+      "schedule": {
+        "friday": "10-15",
+        "monday": "07-13",
+        "tuesday": "11-15",
+        "saturday": "11-14",
+        "thursday": "13-16",
+        "wednesday": "10-16"
+      },
+      "schedule_matches": false,
+      "contract_price": 1616.04,
+      "contract_name": "C-TPS1X",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ssvwmurt",
+      "id": "cus_ssvwmurt",
+      "customer_name": "Dora Wilson",
+      "customer_company": "J.P. Morgan Chase & Co.",
+      "address_street": "Ojulic Key 457",
+      "address_city": "Berlin",
+      "address_postalcode": "10556",
+      "schedule": {
+        "friday": "11-14",
+        "monday": "10-14",
+        "tuesday": "12-18",
+        "saturday": "11-14",
+        "thursday": "13-17",
+        "wednesday": "08-12"
+      },
+      "schedule_matches": false,
+      "contract_price": 1669.49,
+      "contract_name": "C-KJ7CZ",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_8ug59n9h",
+      "id": "cus_8ug59n9h",
+      "customer_name": "Nina Barnes",
+      "customer_company": "ACT Manufacturing Inc.",
+      "address_street": "Tevec Path 1161",
+      "address_city": "Berlin",
+      "address_postalcode": "10651",
+      "schedule": {
+        "friday": "13-16",
+        "monday": "11-15",
+        "tuesday": "09-16",
+        "wednesday": "07-11"
+      },
+      "schedule_matches": false,
+      "contract_price": 1546.66,
+      "contract_name": "C-C5B38",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_xlu282x7",
+      "id": "cus_xlu282x7",
+      "customer_name": "Trevor Hamilton",
+      "customer_company": "Reliance Steel & Aluminum Co.",
+      "address_street": "Luav Circle 698",
+      "address_city": "Berlin",
+      "address_postalcode": "10641",
+      "schedule": {
+        "friday": "08-12",
+        "saturday": "11-15",
+        "thursday": "12-17",
+        "wednesday": "11-15"
+      },
+      "schedule_matches": false,
+      "contract_price": 1499.71,
+      "contract_name": "C-ROQRP",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_0n6cp4qz",
+      "id": "cus_0n6cp4qz",
+      "customer_name": "Calvin Gilbert",
+      "customer_company": "Wyeth",
+      "address_street": "Kipova River 1738",
+      "address_city": "Berlin",
+      "address_postalcode": "10817",
+      "schedule": {
+        "friday": "12-15",
+        "monday": "09-18",
+        "tuesday": "13-16",
+        "saturday": "11-16",
+        "thursday": "13-17",
+        "wednesday": "11-14"
+      },
+      "schedule_matches": false,
+      "contract_price": 1548.76,
+      "contract_name": "C-FIY8F",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_w507scr2",
+      "id": "cus_w507scr2",
+      "customer_name": "Kate Burke",
+      "customer_company": "Maxtor Corporation",
+      "address_street": "Juip Turnpike 1485",
+      "address_city": "Berlin",
+      "address_postalcode": "12735",
+      "schedule": {
+        "saturday": "12-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1542.4,
+      "contract_name": "C-TBUCG",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_nnwbqv2t",
+      "id": "cus_nnwbqv2t",
+      "customer_name": "Lillie Brooks",
+      "customer_company": "FleetBoston Financial Co.",
+      "address_street": "Famha Junction 445",
+      "address_city": "Berlin",
+      "address_postalcode": "13082",
+      "schedule": {
+        "friday": "10-13"
+      },
+      "schedule_matches": true,
+      "contract_price": 1650.33,
+      "contract_name": "C-F9GLE",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_wz2yfz4o",
+      "id": "cus_wz2yfz4o",
+      "customer_name": "Hunter Wood",
+      "customer_company": "Cox Communications Inc.",
+      "address_street": "Baici Glen 124",
+      "address_city": "Berlin",
+      "address_postalcode": "13925",
+      "schedule": {
+        "wednesday": "10-17"
+      },
+      "schedule_matches": true,
+      "contract_price": 1538.7,
+      "contract_name": "C-QW4R6",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_kc03kb11",
+      "id": "cus_kc03kb11",
+      "customer_name": "Sally Bennett",
+      "customer_company": "Bausch & Lomb Incorporated",
+      "address_street": "Reaha Loop 473",
+      "address_city": "Berlin",
+      "address_postalcode": "12596",
+      "schedule": {
+        "friday": "08-15",
+        "tuesday": "11-15",
+        "saturday": "08-11",
+        "thursday": "12-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1559.23,
+      "contract_name": "C-EI8A0",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_uewdeiw0",
+      "id": "cus_uewdeiw0",
+      "customer_name": "Winifred Terry",
+      "customer_company": "La-Z-Boy Inc.",
+      "address_street": "Jumpuj Street 702",
+      "address_city": "Berlin",
+      "address_postalcode": "15427",
+      "schedule": {
+        "friday": "12-16",
+        "saturday": "08-11",
+        "thursday": "11-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1635.16,
+      "contract_name": "C-I1AHX",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_i3v7zkxi",
+      "id": "cus_i3v7zkxi",
+      "customer_name": "Donald Welch",
+      "customer_company": "Newmont Mining Corporation",
+      "address_street": "Fevte River 1552",
+      "address_city": "Berlin",
+      "address_postalcode": "12461",
+      "schedule": {
+        "friday": "14-18",
+        "tuesday": "09-13"
+      },
+      "schedule_matches": false,
+      "contract_price": 1697.23,
+      "contract_name": "C-QSGOB",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ab856eq7",
+      "id": "cus_ab856eq7",
+      "customer_name": "Lucille Copeland",
+      "customer_company": "Comcast Corp.",
+      "address_street": "Vepim Ridge 781",
+      "address_city": "Berlin",
+      "address_postalcode": "13785",
+      "schedule": {
+        "friday": "11-14",
+        "monday": "13-17",
+        "tuesday": "09-14",
+        "saturday": "13-16",
+        "thursday": "13-16",
+        "wednesday": "09-13"
+      },
+      "schedule_matches": true,
+      "contract_price": 1554.13,
+      "contract_name": "C-6VKYN",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_uos2nca4",
+      "id": "cus_uos2nca4",
+      "customer_name": "Joseph Long",
+      "customer_company": "Bowater Incorporated",
+      "address_street": "Dubo Mill 1510",
+      "address_city": "Berlin",
+      "address_postalcode": "12761",
+      "schedule": {
+        "friday": "08-14",
+        "monday": "13-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1620.39,
+      "contract_name": "C-G86R4",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_539qqa5h",
+      "id": "cus_539qqa5h",
+      "customer_name": "Elizabeth McDaniel",
+      "customer_company": "Transocean Inc",
+      "address_street": "Fama Loop 249",
+      "address_city": "Berlin",
+      "address_postalcode": "13957",
+      "schedule": {
+        "monday": "08-12",
+        "tuesday": "11-17",
+        "wednesday": "11-14"
+      },
+      "schedule_matches": true,
+      "contract_price": 1719.06,
+      "contract_name": "C-09OFR",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_zxynf4tf",
+      "id": "cus_zxynf4tf",
+      "customer_name": "David Cobb",
+      "customer_company": "Wm Wrigley Jr Company",
+      "address_street": "Taeze Loop 839",
+      "address_city": "Berlin",
+      "address_postalcode": "15758",
+      "schedule": {
+        "friday": "09-16",
+        "monday": "10-17",
+        "tuesday": "09-16",
+        "saturday": "14-17",
+        "thursday": "10-14",
+        "wednesday": "13-17"
+      },
+      "schedule_matches": false,
+      "contract_price": 1662.85,
+      "contract_name": "C-ENBF9",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ntr8moyq",
+      "id": "cus_ntr8moyq",
+      "customer_name": "Celia Martinez",
+      "customer_company": "Hub Group Inc.",
+      "address_street": "Penleh Way 1275",
+      "address_city": "Berlin",
+      "address_postalcode": "15384",
+      "schedule": {
+        "wednesday": "07-15"
+      },
+      "schedule_matches": false,
+      "contract_price": 1661.8,
+      "contract_name": "C-D44VB",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_nj27aiep",
+      "id": "cus_nj27aiep",
+      "customer_name": "Edith Doyle",
+      "customer_company": "The LTV Corporation",
+      "address_street": "Vulac Mill 523",
+      "address_city": "Berlin",
+      "address_postalcode": "15211",
+      "schedule": {
+        "friday": "10-13",
+        "monday": "13-17",
+        "saturday": "10-15",
+        "thursday": "09-14",
+        "wednesday": "13-18"
+      },
+      "schedule_matches": true,
+      "contract_price": 1630.85,
+      "contract_name": "C-DM997",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_86aflvuo",
+      "id": "cus_86aflvuo",
+      "customer_name": "Abbie Gonzales",
+      "customer_company": "Linens 'n Things Inc.",
+      "address_street": "Lithus Lane 1360",
+      "address_city": "Berlin",
+      "address_postalcode": "13031",
+      "schedule": {
+        "friday": "11-15",
+        "tuesday": "09-16",
+        "thursday": "07-10"
+      },
+      "schedule_matches": true,
+      "contract_price": 1453.82,
+      "contract_name": "C-OTK4T",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_88v9rzts",
+      "id": "cus_88v9rzts",
+      "customer_name": "Inez Jefferson",
+      "customer_company": "Graybar Electric Company Inc.",
+      "address_street": "Okim Park 1094",
+      "address_city": "Berlin",
+      "address_postalcode": "15232",
+      "schedule": {
+        "friday": "10-16",
+        "tuesday": "08-15",
+        "thursday": "07-14",
+        "wednesday": "08-16"
+      },
+      "schedule_matches": false,
+      "contract_price": 1577.89,
+      "contract_name": "C-W2JQN",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ib9cx3m9",
+      "id": "cus_ib9cx3m9",
+      "customer_name": "Carrie Greer",
+      "customer_company": "BJ Services Company",
+      "address_street": "Wokidi Avenue 1406",
+      "address_city": "Berlin",
+      "address_postalcode": "12324",
+      "schedule": {
+        "friday": "12-16",
+        "monday": "08-17",
+        "tuesday": "10-14",
+        "thursday": "09-13",
+        "wednesday": "11-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1529.98,
+      "contract_name": "C-2XSQ2",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_pwj03rb8",
+      "id": "cus_pwj03rb8",
+      "customer_name": "Abbie Schneider",
+      "customer_company": "Silicon Graphics Inc",
+      "address_street": "Bihov Point 1579",
+      "address_city": "Berlin",
+      "address_postalcode": "12107",
+      "schedule": {
+        "friday": "07-10",
+        "monday": "11-15",
+        "tuesday": "12-15",
+        "saturday": "11-18"
+      },
+      "schedule_matches": false,
+      "contract_price": 1374.95,
+      "contract_name": "C-46OZY",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_89gw758b",
+      "id": "cus_89gw758b",
+      "customer_name": "Adele Coleman",
+      "customer_company": "Ingles Market Inc",
+      "address_street": "Hejher Glen 211",
+      "address_city": "Berlin",
+      "address_postalcode": "12386",
+      "schedule": {
+        "friday": "08-15",
+        "tuesday": "12-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1686.4,
+      "contract_name": "C-UD7OM",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_9hhfa7ye",
+      "id": "cus_9hhfa7ye",
+      "customer_name": "Jeremy Long",
+      "customer_company": "Forest Laboratories Inc.",
+      "address_street": "Zobnaz Pike 936",
+      "address_city": "Berlin",
+      "address_postalcode": "15946",
+      "schedule": {
+        "monday": "11-15",
+        "tuesday": "11-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1545.65,
+      "contract_name": "C-29U5Y",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_8boo9q82",
+      "id": "cus_8boo9q82",
+      "customer_name": "Pauline Rogers",
+      "customer_company": "Wm Wrigley Jr Company",
+      "address_street": "Tiwunu View 1611",
+      "address_city": "Berlin",
+      "address_postalcode": "12563",
+      "schedule": {
+        "friday": "10-16",
+        "monday": "12-16",
+        "tuesday": "13-16",
+        "saturday": "07-15",
+        "wednesday": "12-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1361.79,
+      "contract_name": "C-43I2V",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_81vgz3sx",
+      "id": "cus_81vgz3sx",
+      "customer_name": "Emily Paul",
+      "customer_company": "Union Pacific Corporation",
+      "address_street": "Ganevo Lane 160",
+      "address_city": "Berlin",
+      "address_postalcode": "13052",
+      "schedule": {
+        "tuesday": "10-17",
+        "saturday": "11-14",
+        "wednesday": "09-12"
+      },
+      "schedule_matches": true,
+      "contract_price": 1660.66,
+      "contract_name": "C-RKNA8",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_39hb0tin",
+      "id": "cus_39hb0tin",
+      "customer_name": "Luis Massey",
+      "customer_company": "Fortune Brands Inc.",
+      "address_street": "Etudez Circle 1385",
+      "address_city": "Berlin",
+      "address_postalcode": "13797",
+      "schedule": {
+        "friday": "14-17",
+        "monday": "10-13",
+        "tuesday": "10-13",
+        "saturday": "14-17",
+        "thursday": "07-18",
+        "wednesday": "09-12"
+      },
+      "schedule_matches": false,
+      "contract_price": 1688.85,
+      "contract_name": "C-XGZ7P",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_gdnzrv3j",
+      "id": "cus_gdnzrv3j",
+      "customer_name": "Matilda Hall",
+      "customer_company": "Abbott Laboratories",
+      "address_street": "Tata Turnpike 944",
+      "address_city": "Berlin",
+      "address_postalcode": "12775",
+      "schedule": {
+        "monday": "10-14",
+        "thursday": "11-15",
+        "wednesday": "14-18"
+      },
+      "schedule_matches": true,
+      "contract_price": 1672.8,
+      "contract_name": "C-UZ9VZ",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_r5eizyrr",
+      "id": "cus_r5eizyrr",
+      "customer_name": "Rose Reyes",
+      "customer_company": "Northern Trust Corporation",
+      "address_street": "Buri Avenue 1972",
+      "address_city": "Berlin",
+      "address_postalcode": "15064",
+      "schedule": {
+        "friday": "09-13",
+        "tuesday": "09-13",
+        "saturday": "11-17",
+        "wednesday": "07-11"
+      },
+      "schedule_matches": false,
+      "contract_price": 1604.77,
+      "contract_name": "C-I9NZN",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ldmswsjt",
+      "id": "cus_ldmswsjt",
+      "customer_name": "Eugene Sharp",
+      "customer_company": "AOL Time Warner Inc.",
+      "address_street": "Casad Key 432",
+      "address_city": "Berlin",
+      "address_postalcode": "13236",
+      "schedule": {
+        "friday": "10-17",
+        "thursday": "11-15",
+        "wednesday": "07-15"
+      },
+      "schedule_matches": false,
+      "contract_price": 1689.79,
+      "contract_name": "C-T53EO",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_gep4miju",
+      "id": "cus_gep4miju",
+      "customer_name": "Lois Hopkins",
+      "customer_company": "Comdisco Inc.",
+      "address_street": "Hiblu Parkway 19",
+      "address_city": "Berlin",
+      "address_postalcode": "12724",
+      "schedule": {
+        "tuesday": "10-14",
+        "saturday": "09-13",
+        "wednesday": "09-13"
+      },
+      "schedule_matches": true,
+      "contract_price": 1466.09,
+      "contract_name": "C-PTC6L",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_11iz4to6",
+      "id": "cus_11iz4to6",
+      "customer_name": "Luis Taylor",
+      "customer_company": "Sun Microsystems Inc.",
+      "address_street": "Dawa Court 951",
+      "address_city": "Berlin",
+      "address_postalcode": "13622",
+      "schedule": {
+        "friday": "14-17",
+        "saturday": "09-13",
+        "thursday": "10-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1589.07,
+      "contract_name": "C-EUP7K",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_p3slh8w9",
+      "id": "cus_p3slh8w9",
+      "customer_name": "John Page",
+      "customer_company": "Marathon Oil Corporation",
+      "address_street": "Musmin Highway 1968",
+      "address_city": "Berlin",
+      "address_postalcode": "15250",
+      "schedule": {
+        "monday": "11-17",
+        "tuesday": "12-15",
+        "saturday": "10-16",
+        "thursday": "12-15",
+        "wednesday": "10-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1644.7,
+      "contract_name": "C-9LF6N",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_oywoeq01",
+      "id": "cus_oywoeq01",
+      "customer_name": "Katherine Gonzalez",
+      "customer_company": "Allied Waste Industries, Inc.",
+      "address_street": "Vugnu Loop 1362",
+      "address_city": "Berlin",
+      "address_postalcode": "10633",
+      "schedule": {
+        "friday": "12-16",
+        "monday": "07-12",
+        "tuesday": "11-14",
+        "saturday": "14-17",
+        "thursday": "11-16",
+        "wednesday": "10-15"
+      },
+      "schedule_matches": false,
+      "contract_price": 1595.63,
+      "contract_name": "C-QTRTL",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_w6boxu86",
+      "id": "cus_w6boxu86",
+      "customer_name": "Barbara Paul",
+      "customer_company": "H&R Block Inc.",
+      "address_street": "Heldu Heights 671",
+      "address_city": "Berlin",
+      "address_postalcode": "10197",
+      "schedule": {
+        "friday": "11-18",
+        "thursday": "10-17",
+        "wednesday": "08-14"
+      },
+      "schedule_matches": false,
+      "contract_price": 1707.25,
+      "contract_name": "C-13ZG5",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_f2h3kqb2",
+      "id": "cus_f2h3kqb2",
+      "customer_name": "Theodore Martinez",
+      "customer_company": "Avaya Inc.",
+      "address_street": "Rojeb Terrace 1563",
+      "address_city": "Berlin",
+      "address_postalcode": "12660",
+      "schedule": {
+        "friday": "13-16",
+        "monday": "09-15",
+        "tuesday": "10-14"
+      },
+      "schedule_matches": true,
+      "contract_price": 1528.08,
+      "contract_name": "C-RGOFC",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_ewfkjjck",
+      "id": "cus_ewfkjjck",
+      "customer_name": "Bryan Snyder",
+      "customer_company": "Mail-Well Inc.",
+      "address_street": "Ifza Path 356",
+      "address_city": "Berlin",
+      "address_postalcode": "13174",
+      "schedule": {
+        "tuesday": "11-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1534.17,
+      "contract_name": "C-CDLH7",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_cys7klsm",
+      "id": "cus_cys7klsm",
+      "customer_name": "Micheal West",
+      "customer_company": "Harsco Corp.",
+      "address_street": "Lepu Avenue 603",
+      "address_city": "Berlin",
+      "address_postalcode": "13931",
+      "schedule": {
+        "wednesday": "09-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1536.76,
+      "contract_name": "C-VAQFU",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_p7b8ccul",
+      "id": "cus_p7b8ccul",
+      "customer_name": "Marc Harrington",
+      "customer_company": "Universal Health Services Inc",
+      "address_street": "Gateg Junction 1889",
+      "address_city": "Berlin",
+      "address_postalcode": "10377",
+      "schedule": {
+        "saturday": "12-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1501.01,
+      "contract_name": "C-ZGXE9",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_a268o9gz",
+      "id": "cus_a268o9gz",
+      "customer_name": "Alejandro Vaughn",
+      "customer_company": "McCormick & Company Incorporated",
+      "address_street": "Wiwu Park 218",
+      "address_city": "Berlin",
+      "address_postalcode": "15826",
+      "schedule": {
+        "thursday": "10-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1549.92,
+      "contract_name": "C-G819I",
+      "contract_start": "2019-08-03T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_24ta2m8u",
+      "id": "cus_24ta2m8u",
+      "customer_name": "Susie Conner",
+      "customer_company": "J.C. Penny Co.",
+      "address_street": "Wulac River 796",
+      "address_city": "Berlin",
+      "address_postalcode": "12756",
+      "schedule": {
+        "friday": "09-14",
+        "monday": "11-14",
+        "tuesday": "09-12",
+        "saturday": "08-12",
+        "thursday": "13-16",
+        "wednesday": "11-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 698.95,
+      "contract_name": "C-ZQIXK",
+      "contract_start": "2018-11-09T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_wu0wetf9",
+      "id": "cus_wu0wetf9",
+      "customer_name": "Terry Hill",
+      "customer_company": "Estee Lauder Companies Inc.",
+      "address_street": "Bukfos Drive 893",
+      "address_city": "Berlin",
+      "address_postalcode": "12756",
+      "schedule": {
+        "friday": "09-17",
+        "thursday": "11-17"
+      },
+      "schedule_matches": false,
+      "contract_price": 1299.78,
+      "contract_name": "C-EJRNJ",
+      "contract_start": "2018-10-22T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_yrqdmyft",
+      "id": "cus_yrqdmyft",
+      "customer_name": "Bill Swanson",
+      "customer_company": "KPMG Consulting Inc.",
+      "address_street": "Ubunih Center 1276",
+      "address_city": "Berlin",
+      "address_postalcode": "12521",
+      "schedule": {
+        "friday": "12-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 2047.04,
+      "contract_name": "C-EFB4D",
+      "contract_start": "2018-08-26T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_b38s9xog",
+      "id": "cus_b38s9xog",
+      "customer_name": "Belle Matthews",
+      "customer_company": "Energizer Holdings Inc.",
+      "address_street": "Zigel Manor 1309",
+      "address_city": "Berlin",
+      "address_postalcode": "10244",
+      "schedule": {
+        "monday": "09-15",
+        "tuesday": "09-13",
+        "saturday": "12-15",
+        "wednesday": "10-17"
+      },
+      "schedule_matches": true,
+      "contract_price": 3266.03,
+      "contract_name": "C-75LP2",
+      "contract_start": "2018-08-04T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_qnuy1k7b",
+      "id": "cus_qnuy1k7b",
+      "customer_name": "Ralph Mack",
+      "customer_company": "Airgas, Inc.",
+      "address_street": "Omesan Road 530",
+      "address_city": "Berlin",
+      "address_postalcode": "15357",
+      "schedule": {
+        "friday": "10-13",
+        "monday": "10-14",
+        "thursday": "11-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 1483.09,
+      "contract_name": "C-4I37V",
+      "contract_start": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_fkwo8sbc",
+      "id": "cus_fkwo8sbc",
+      "customer_name": "Manuel Riley",
+      "customer_company": "Gillette Company",
+      "address_street": "Elkej River 1121",
+      "address_city": "Berlin",
+      "address_postalcode": "12045",
+      "schedule": {
+        "monday": "11-14",
+        "saturday": "13-16",
+        "thursday": "09-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1849.44,
+      "contract_name": "C-VXVSF",
+      "contract_start": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_8af18s3m",
+      "id": "cus_8af18s3m",
+      "customer_name": "Louis Mitchell",
+      "customer_company": "Chubb Corp",
+      "address_street": "Roos Key 224",
+      "address_city": "Berlin",
+      "address_postalcode": "13989",
+      "schedule": {
+        "monday": "11-14"
+      },
+      "schedule_matches": true,
+      "contract_price": 1583.61,
+      "contract_name": "C-0VDII",
+      "contract_start": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_p096wnjp",
+      "id": "cus_p096wnjp",
+      "customer_name": "Andrew Ortiz",
+      "customer_company": "American Water Works Company, Inc.",
+      "address_street": "Wowum Boulevard 1228",
+      "address_city": "Berlin",
+      "address_postalcode": "10324",
+      "schedule": {
+        "friday": "10-16",
+        "thursday": "08-11"
+      },
+      "schedule_matches": true,
+      "contract_price": 858.64,
+      "contract_name": "C-XLK4R",
+      "contract_start": "2018-06-12T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_tg2uh8rv",
+      "id": "cus_tg2uh8rv",
+      "customer_name": "Lucile Walters",
+      "customer_company": "Maxtor Corporation",
+      "address_street": "Fadiz Grove 1115",
+      "address_city": "Berlin",
+      "address_postalcode": "15049",
+      "schedule": {
+        "wednesday": "09-13"
+      },
+      "schedule_matches": true,
+      "contract_price": 965.29,
+      "contract_name": "C-2LBP2",
+      "contract_start": "2018-05-14T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_jtsg8kog",
+      "id": "cus_jtsg8kog",
+      "customer_name": "Andre Drake",
+      "customer_company": "Smith International Inc",
+      "address_street": "Omasu Lane 959",
+      "address_city": "Berlin",
+      "address_postalcode": "10163",
+      "schedule": {
+        "friday": "11-14",
+        "monday": "11-14",
+        "tuesday": "10-13",
+        "thursday": "11-14",
+        "wednesday": "10-17"
+      },
+      "schedule_matches": true,
+      "contract_price": 1140.65,
+      "contract_name": "C-2U52Z",
+      "contract_start": "2018-05-13T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_yiu8b1pc",
+      "id": "cus_yiu8b1pc",
+      "customer_name": "Rosa Holloway",
+      "customer_company": "Entergy Corporation",
+      "address_street": "Molef Street 132",
+      "address_city": "Berlin",
+      "address_postalcode": "15575",
+      "schedule": {
+        "friday": "14-17",
+        "monday": "09-14",
+        "tuesday": "11-14",
+        "saturday": "09-14",
+        "thursday": "09-12",
+        "wednesday": "09-13"
+      },
+      "schedule_matches": true,
+      "contract_price": 1964.61,
+      "contract_name": "C-0OKLV",
+      "contract_start": "2018-05-11T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_8ehhdly5",
+      "id": "cus_8ehhdly5",
+      "customer_name": "Nannie Craig",
+      "customer_company": "Exide Technologies",
+      "address_street": "Ovisak Key 1583",
+      "address_city": "Berlin",
+      "address_postalcode": "10096",
+      "schedule": {
+        "monday": "11-17",
+        "tuesday": "10-14",
+        "saturday": "11-17"
+      },
+      "schedule_matches": false,
+      "contract_price": 1722.16,
+      "contract_name": "C-P7J1Q",
+      "contract_start": "2018-04-19T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_vsn02ch5",
+      "id": "cus_vsn02ch5",
+      "customer_name": "Dennis Graves",
+      "customer_company": "Amgen Inc.",
+      "address_street": "Lehar Glen 1740",
+      "address_city": "Berlin",
+      "address_postalcode": "10833",
+      "schedule": {
+        "friday": "10-15"
+      },
+      "schedule_matches": true,
+      "contract_price": 767.45,
+      "contract_name": "C-1G9YM",
+      "contract_start": "2018-02-23T00:00:00.000Z"
+    },
+    {
+      "status": "accepted",
+      "partner_id": "par_nxvjj7em",
+      "customer_id": "cus_agguw7er",
+      "id": "cus_agguw7er",
+      "customer_name": "Edna Green",
+      "customer_company": "Carpenter Technology Corp.",
+      "address_street": "Borna Parkway 674",
+      "address_city": "Berlin",
+      "address_postalcode": "13877",
+      "schedule": {
+        "tuesday": "12-16"
+      },
+      "schedule_matches": true,
+      "contract_price": 1777.07,
+      "contract_name": "C-BBVMG",
+      "contract_start": "2018-01-24T00:00:00.000Z"
+    }
+  ]
+}
