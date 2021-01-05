@@ -9,7 +9,7 @@
         "build": "parcel build index.html"
     },
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "json-server": "^0.15.1",
         "react": "^16.6.3",
         "react-dom": "^16.6.3"
